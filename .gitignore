@@ -1,0 +1,14 @@
+.venv
+venv
+encoder.json
+vocab.bpe
+
+/.venv
+/venv
+/encoder.json
+/vocab.bpe
+
+/.venv/
+/venv/
+/encoder.json/
+/vocab.bpe/
